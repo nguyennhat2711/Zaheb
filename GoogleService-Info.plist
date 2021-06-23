@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>797420909804-36qt28ckaef0omusds59s0vepqtu83o8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.797420909804-36qt28ckaef0omusds59s0vepqtu83o8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>797420909804-ush2u9r2c0qah7lbsebetp2qtgr82ahu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7jVG2_KE6CktrHhQOiPV0ubrd7DcZ7LY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>797420909804</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mttweren.zaheb</string>
+	<key>PROJECT_ID</key>
+	<string>zaheb-5c06e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zaheb-5c06e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:797420909804:ios:cadfc0254ce9aa06f4a1c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://zaheb-5c06e.firebaseio.com</string>
+</dict>
+</plist>
